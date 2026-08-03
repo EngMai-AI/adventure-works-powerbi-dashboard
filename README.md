@@ -31,8 +31,6 @@ Power BI Desktop, Power Query, DAX
 
 ## Demo
 
-*(Add link to your walkthrough video here)*
+[(https://www.linkedin.com/posts/mai-reda-74477423b_powerbi-dataanalysis-dax-ugcPost-7489415080363663360-v82S/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADu8WiQByLPNjw-Qp-TZvyuaaHtQh83u1sU)
+](https://www.linkedin.com/posts/mai-reda-74477423b_powerbi-dataanalysis-dax-ugcPost-7489415080363663360-v82S/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADu8WiQByLPNjw-Qp-TZvyuaaHtQh83u1sU)
 
-## Screenshots
-
-*(Add page screenshots here — Home, Sales Overview, Products, Customers, Sales Team Performance)*
